@@ -11,7 +11,7 @@ PPG Industry Talk Poster
 
 ## 🖼️ Project Poster
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haninabilah/Assignment2_SECP1513/main/POSTER%20TIS%20KUMPULAN%202%20%20(1).pdf" width="600" alt="Industry Briefing Poster">
+  <img src="https://github.com/haninabilah/Assignment2_SECP1513/blob/main/Poster_Kumpulan2.pdf" width="600" alt="Industry Briefing Poster">
   <br>
   <em>Note: If the image above doesn't load, you can view the full PDF <a href="https://github.com/haninabilah/Assignment2_SECP1513/blob/main/POSTER%20TIS%20KUMPULAN%202%20%20(1).pdf">here</a>.</em>
 </p>
