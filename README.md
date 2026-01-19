@@ -1,7 +1,12 @@
 # Assignment2_SECP1513
 PPG Industry Talk Poster
 
-Exploring the bridge between industrial backend data and intuitive UI/UX. Inspired by PPG Industries to design software that has both a powerful engine and a clear dashboard. 🏢✨
+## 💡 Reflection Summary
+This session highlighted the vital connection between large-scale digital infrastructure and the tools users rely on daily.
+
+* **Systems Thinking:** Understanding how SAP and ERP systems maintain global data integrity.
+* **Process Optimization:** Seeing digital tracking reduce friction across the entire supply chain.
+* **UI/UX Strategy:**  Learning to make complex industrial data accessible through systematic design. 
 
 ### 🖼️ Project Poster
 
