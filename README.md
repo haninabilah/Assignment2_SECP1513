@@ -1,14 +1,8 @@
 # Assignment2_SECP1513
 PPG Industry Talk Poster
 
-## 📅 Event Details
-- **Date:** 20 November 2025 
-- **Platform:** Webex Meetings (Virtual) 
-- **Organization:** PPG Industries
-- **Topic:** Digital Infrastructure & ERP Systems
-
----
+Exploring the bridge between industrial backend data and intuitive UI/UX. Inspired by PPG Industries to design software that has both a powerful engine and a clear dashboard. 🏢✨
 
 ### 🖼️ Project Poster
 
-[📄 **Klik di sini untuk lihat Poster Kumpulan (PDF)**](https://github.com/haninabilah/Assignment2_SECP1513/blob/main/Poster_Kumpulan2.jpg)
+[📄 **Click here to see the poster**](https://github.com/haninabilah/Assignment2_SECP1513/blob/main/Poster_Kumpulan2.jpg)
