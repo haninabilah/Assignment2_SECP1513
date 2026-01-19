@@ -11,4 +11,4 @@ PPG Industry Talk Poster
 
 ### 🖼️ Project Poster
 
-[📄 **Klik di sini untuk lihat Poster Kumpulan (PDF)**](./Poster_Kumpulan2.pdf)
+[📄 **Klik di sini untuk lihat Poster Kumpulan (PDF)**](https://github.com/haninabilah/Assignment2_SECP1513/blob/main/Poster_Kumpulan2.jpg)
